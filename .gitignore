@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# Xcode build output
+build/
+DerivedData/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Core ML compiled/generated files
+*.mlmodelc/
+
+# Archives and datasets
+*.zip
+*.tar
+*.tar.gz
+*.csv
+*.jsonl
+
+# Videos and simulator recordings
+*.mov
+*.mp4
+
+# Secrets
+.env
+*.p12
+*.mobileprovision
