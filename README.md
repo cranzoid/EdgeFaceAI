@@ -22,7 +22,6 @@ Both implementations were evaluated using the same set of 20 facial images. The 
 - **Course:** DLBAIPEAI - Project: Edge AI
 - **Selected task:** Task 2 - Age, gender and expression recognition application
 - **Student:** Vishesh Vaibhav
-- **Matriculation number:** 92129377
 - **Institution:** IU International University of Applied Sciences
 
 ## Research Question
@@ -288,18 +287,9 @@ The project uses or builds upon the following resources:
 
 Third-party models, libraries and datasets remain subject to their original licences and terms. Their inclusion in this academic repository does not relicense them.
 
-## AI-Tool Disclosure
-
-OpenAI ChatGPT was used to support experimental planning, troubleshooting of Xcode and Core ML errors, revision of Swift and Python code, organisation of results, chart preparation and language editing.
-
-Two supplementary synthetic portraits were generated using ChatGPT to complete the overall target counts after the selected FACES subset did not contain enough eligible Elderly Happy or Sad images.
-
-The final methods were selected by the author. The Colab and iPhone experiments were executed by the author, the exported results were checked against the recorded files, and the author remains responsible for the submitted work.
-
 ## Author
 
 **Vishesh Vaibhav**  
-Matriculation number: 92129377  
 Bachelor of Science in Applied Artificial Intelligence  
 IU International University of Applied Sciences
 
